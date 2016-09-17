@@ -81,8 +81,7 @@ Prime.each(n) do |prime|
   p prime 
 end
 
-
-
+ทำเสร็จถึงข้อ 2
 
 
 
